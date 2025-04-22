@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;">
+  <defs>
+    <symbol id="icon-close" viewBox="0 0 32 32">
+      <path fill="#e7e9fc" d="M32 16a16 16 0 1 1-32 0 16 16 0 0 1 32 0z" style="fill: var(--color1, #e7e9fc)"/>
+      <path fill="none" stroke="#000" stroke-width="1.3" d="M31.3 16A15.3 15.3 0 1 1 .7 16a15.3 15.3 0 0 1 30.6 0z" style="stroke: var(--color2, #000)"/>
+      <path fill="#2e2f42" d="m21.3 11.7-1-1-4.3 4.2-4.3-4.2-1 1 4.2 4.3-4.2 4.3 1 1 4.3-4.2 4.3 4.2 1-1-4.2-4.3 4.2-4.3z" style="fill: var(--color3, #2e2f42)"/>
+    </symbol>
+    <symbol id="icon-email" viewBox="0 0 32 32">
+      <path d="M28 4H4a3 3 0 0 0-3 3v18a3 3 0 0 0 3 3h24a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3zm-.6 6.4L16.8 17c-.5.3-1.1.3-1.6 0L4.6 10.4C4.2 10 4 9.7 4 9.3c0-1 1-1.6 2-1l10 6.2 10-6.3a1.3 1.3 0 1 1 1.4 2.2z"/>
+    </symbol>
+    <symbol id="icon-name" viewBox="0 0 32 32">
+      <path fill="#4d5ae5" d="M16 16a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm0 4c-5.3 0-16 2.7-16 8v2c0 1.1.9 2 2 2h28a2 2 0 0 0 2-2v-2c0-5.3-10.7-8-16-8z" style="fill: var(--color4, #4d5ae5)"/>
+    </symbol>
+    <symbol id="icon-send" viewBox="0 0 32 32">
+      <path fill="#fff" d="m32 2.7-32 15 10.2 3.1L26 8.5 14 22v7.3l5.7-5.5L27 26l5-23.3z" style="fill: var(--color5, #fff)"/>
+    </symbol>
+    <symbol id="icon-tel" viewBox="0 0 32 32">
+      <path d="m28.9 21.8-4.6-.5c-1-.1-2.1.3-2.9 1l-3.3 3.3C13.1 23 9 18.9 6.4 13.9l3.3-3.3c.8-.8 1.1-1.9 1-3l-.5-4.4A3.6 3.6 0 0 0 6.7 0H3.6C1.6 0-.1 1.7 0 3.7A30.3 30.3 0 0 0 28.3 32c2 .1 3.7-1.6 3.7-3.6v-3c0-1.9-1.3-3.4-3.1-3.6z"/>
+    </symbol>
+  </defs>
+</svg>

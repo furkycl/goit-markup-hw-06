@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;">
+  <defs>
+    <symbol id="icon-checkbox" viewBox="0 0 24 24">
+      <path fill="#2e2f42" d="M21.5 11.5 23 13l-7 7-4.5-4.5L13 14l3 3zM2 16v-2h8v2H2zM14 6v2H2V6h12zm0 4v2H2v-2h12z"/>
+    </symbol>
+  </defs>
+</svg>
+<symbol id="icon-close" viewBox="0 0 32 32">
+      <path fill="#e7e9fc" d="M32 16a16 16 0 1 1-32 0 16 16 0 0 1 32 0z" style="fill: var(--color1, #e7e9fc)"/>
+      <path fill="none" stroke="#0000001a" stroke-width="1" d="M31.3 16A15.3 15.3 0 1 1 .7 16a15.3 15.3 0 0 1 30.6 0z" style="stroke: var(--color2, #0000001a)"/>
+      <path fill="#2e2f42" d="m21.3 11.7-1-1-4.3 4.2-4.3-4.2-1 1 4.2 4.3-4.2 4.3 1 1 4.3-4.2 4.3 4.2 1-1-4.2-4.3 4.2-4.3z" style="fill: var(--color3, #2e2f42)"/>
+    </symbol>
