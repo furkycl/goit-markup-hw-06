@@ -19,6 +19,23 @@ body {
   display: flex !important;
 }
 
+/* MEDIA QUERIES */
+
+/* FOR MOBILE PHONE */
+
+@media (max-width: 768px) {
+  body {
+    background-color: red;
+  }
+}
+
+/* FOR TABLET MODE */
+@media (min-width: 768px) and (max-width: 1024px) {
+  body {
+    background-color: green;
+  }
+}
+
 /* Header Section Styles */
 
 .header-content {
