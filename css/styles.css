@@ -24,19 +24,42 @@ body {
 /* FOR MOBILE PHONE */
 
 @media (max-width: 768px) {
-  body {
-    background-color: red;
+  .container {
+    padding: 0 16px;
+    width: 100%;
+  }
+  .header-content {
+    justify-content: space-between;
+  }
+
+  .menu,
+  .address {
+    display: none;
   }
 }
 
 /* FOR TABLET MODE */
 @media (min-width: 768px) and (max-width: 1024px) {
-  body {
+  header {
     background-color: green;
+  }
+  .container {
+    margin: 0 auto;
+    padding: 0 16px;
+    max-width: 100%;
+    width: 1024px;
   }
 }
 
 /* Header Section Styles */
+.burger-menu {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 32px;
+  cursor: pointer;
+  color: #2e2f42;
+}
 
 .header-content {
   display: flex;
